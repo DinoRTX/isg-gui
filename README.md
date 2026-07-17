@@ -4,11 +4,9 @@ gui for DvorakDwarf ISG, vibecoded because im dumbass
 
 knowed issues:
 
-i forget to add support to download videos directly from yt
+-i forget to add support to download videos directly from yt
 
-this readme is very bad copypasted and im a motherfucker lazy person so i dont matter it
-
-icon doesnt show on taskbar and idk whytf i hate vibecoding i just wanna install coding knowledge in my brain
+-this readme is very bad copypasted and im a motherfucker lazy person so i dont matter it
 
 
 
