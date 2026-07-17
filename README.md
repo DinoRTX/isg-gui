@@ -2,6 +2,13 @@
 
 gui for DvorakDwarf ISG, vibecoded because im dumbass
 
+knowed issues:
+i forget to add support to download videos directly from yt
+this readme is very bad copypasted and im a mutherfuvclker lazy person so i dont matter it
+
+
+
+
 original isg repo readme:
 
 
