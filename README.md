@@ -12,7 +12,7 @@ icon doesnt show
 
 run as admin and idk whytf i hate vibecoding i just wanna install coding knowledge in my brain
 
-
+icon: https://drive.google.com/drive/folders/1cTspRl8zpwqoB9y8d9ZkgweC-KZquAoW
 
 
 original isg repo readme:
