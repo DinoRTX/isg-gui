@@ -6,14 +6,14 @@ knowed issues:
 
 -i forget to add support to download videos directly from yt
 
--it uses the ram so i need to make a version 2, fuck
-
 -this readme is very bad copypasted and im a motherfucker lazy person so i dont matter it
 
 
 
 
 icon: https://drive.google.com/drive/folders/1cTspRl8zpwqoB9y8d9ZkgweC-KZquAoW
+
+try it!: https://youtu.be/c7gYrWPmKGk
 
 
 original isg repo readme:
