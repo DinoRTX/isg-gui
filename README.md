@@ -6,11 +6,12 @@ knowed issues:
 
 i forget to add support to download videos directly from yt
 
-this readme is very bad copypasted and im a mutherfuvclker lazy person so i dont matter it
+this readme is very bad copypasted and im a motherfucker lazy person so i dont matter it
 
-icon doesnt show
+icon doesnt show on taskbar and idk whytf i hate vibecoding i just wanna install coding knowledge in my brain
 
-run as admin and idk whytf i hate vibecoding i just wanna install coding knowledge in my brain
+
+
 
 icon: https://drive.google.com/drive/folders/1cTspRl8zpwqoB9y8d9ZkgweC-KZquAoW
 
