@@ -1,0 +1,19 @@
+{
+  "custom_theme": {
+    "background": "#1e1e2e",
+    "surface": "#2b2b2b",
+    "text": "#cdd6f4",
+    "text_secondary": "#bdbdbd",
+    "accent": "#f2cdcd",
+    "accent_hover": "#0095dd",
+    "button_bg": "#313244",
+    "button_hover": "#4a4a4a",
+    "button_pressed": "#2a2a2a",
+    "drop_background": "#313244",
+    "drop_border": "#313244",
+    "drop_border_active": "#00aaff",
+    "success": "#2ecc71",
+    "warning": "#f39c12",
+    "error": "#e74c3c"
+  }
+}
