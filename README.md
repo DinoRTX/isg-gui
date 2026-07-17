@@ -1,12 +1,16 @@
 # isg-gui
+
 gui for DvorakDwarf ISG, vibecoded because im dumbass
+
 original isg repo readme:
+
+
+
 
 I was working on this instead of my finals, hope you appreciate it.
 I'll add all relevant executables when I can
 
-Infinite-Storage-Glitch
-ezgif com-gif-maker
+# Infinite-Storage-Glitch
 
 AKA ISG (written entirely in Rust my beloved) lets you embed files into video and upload them to youtube as storage.
 
